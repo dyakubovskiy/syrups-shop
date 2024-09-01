@@ -14,9 +14,11 @@
     "vue": "latest"
   },
   "devDependencies": {
+    "@vitest/ui": "^2.0.5",
     "eslint": "^9.9.1",
     "eslint-plugin-vue": "^9.27.0",
     "prettier": "^3.3.3",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
   }
 }
